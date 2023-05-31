@@ -1,4 +1,4 @@
-const API_KEY = "";
+const API_KEY = "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";
 const form = document.getElementById("input-form");
 const result = document.getElementById("result");
 const copyBtn = document.getElementById("copy-btn");
